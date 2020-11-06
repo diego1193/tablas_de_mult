@@ -1,0 +1,14 @@
+{
+  "name": "base-node",
+  "version": "1.0.0",
+  "description": "\"read line-console\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Cabrera",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^16.1.0"
+  }
+}
